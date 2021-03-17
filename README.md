@@ -12,4 +12,4 @@ Most of my open-sourced projects are public on my Github.
 ## Contact
 If you'd like to contact me, see my website, or just add me on Discord.
 
-[Website](lunchb0ne.me)     ·     [Blog](blog.lunchb0ne.me)     ·     Discord: `Lunchb0ne#1617`
+[Website](lunchb0ne.me)     ·     [Blog](blog.lunchb0ne.me)     ·     [Discord](discord.com/channels/@me): `Lunchb0ne#1617`
