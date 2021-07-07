@@ -9,6 +9,12 @@ I also break things (occasionally).
 Most of my open-sourced projects are public on my Github.
 
 > I'm Currently learning WASM, Rust and Web Security testing!
+
+## Music
+What I'm listening rn!
+
+[![Spotify](https://spotify.lunchb0ne.me/api?theme=dark&scan=true)](https://open.spotify.com/user/lunchb0ne)
+
 ## Contact
 If you'd like to contact me, see my website, or just add me on Discord.
 
