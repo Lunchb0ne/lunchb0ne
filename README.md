@@ -8,7 +8,7 @@ I also break things (occasionally).
 
 Most of my open-sourced projects are public on my Github.
 
-> I'm Currently learning WASM, Rust and Web Security testing!
+> I'm Currently learning Rust and Exploring Adversarial Networks (not the GANs kind!)
 
 ## Music
 What I'm listening rn!
