@@ -20,7 +20,7 @@ What I'm listening rn!
 
 [![Lunch's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunchb0ne&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)](https://github.com/lunchb0ne/)
 
-[![Lunch's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lunchb0ne&layout=compact&theme=dark&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)](https://wakatime.com/@lunchb0ne)
+[![Lunch's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lunchb0ne&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)](https://wakatime.com/@lunchb0ne)
 
 ## Contact
 If you'd like to contact me, see my website, or just add me on Discord.
