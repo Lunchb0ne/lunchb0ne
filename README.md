@@ -3,7 +3,7 @@
 Welcome to my profile
 
 ## About
-I'm a full-time SWE @AWS, working on new and exciting things at RDS. I'm a certified AWS Architect, and I love messing around with stuff on the web. I also like to research various DL/ML topics and develop useless things in my free time.
+I'm a full-time SWE @aws, working on new and exciting things at RDS. I'm a certified AWS Architect, and I love messing around with stuff on the web. I also like to research various DL/ML topics and develop useless things in my free time.
 I also break things (occasionally).
 
 Most of my open-sourced projects are public on my Github.
